@@ -10,7 +10,7 @@ namespace CoDLUIDecompiler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CoD LUI Decompiler by JariK");
+            Console.WriteLine("CoD LUI Decompiler by JariK - Forked and updated by Kingslayer Kyle");
             string[] files = new string[1];
             if (args.Length == 0)
             {
