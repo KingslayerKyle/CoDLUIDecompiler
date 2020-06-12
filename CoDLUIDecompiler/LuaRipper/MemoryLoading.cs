@@ -28,17 +28,17 @@ namespace CoDLUIDecompiler
             { "s1_mp64_ship",       new GameDefinition(0x1409B40D0,       0x1409B4B90,    "mp",               LuaRipper.AdvancedWarfare.ExportLuaFIles) },
             { "s1_sp64_ship",       new GameDefinition(0x140804690,       0x140804140,    "sp",               LuaRipper.AdvancedWarfare.ExportLuaFIles) },
             // Call of Duty: Black Ops 3
-            { "BlackOps3",       new GameDefinition(0x93FA290,          0x4D4F100,       "core",               LuaRipper.BlackOps3.ExportLuaFIles) },
+            { "BlackOps3",          new GameDefinition(0x94093F0,         0x4D5E280,      "core",             LuaRipper.BlackOps3.ExportLuaFIles) },
             // Call of Duty: Infinite Warfare
             { "iw7_ship",           new GameDefinition(0x1414663D0,       0x141466290,    "core",             LuaRipper.InfiniteWarfare.ExportLuaFIles) },
             // Call of Duty: Modern Warfare Remastered
             { "h1_mp64_ship",       new GameDefinition(0x10B4460,         0x10B3C80,      "mp",               LuaRipper.ModernWarfareRM.ExportLuaFIles) },
             { "h1_sp64_ship",       new GameDefinition(0xEC9FB0,          0xEC97D0,       "sp",               LuaRipper.ModernWarfareRM.ExportLuaFIles) },
             // Call of Duty: World War II
-            { "s2_mp64_ship",       new GameDefinition(0xC05370,          0xC05370,       "mp",               LuaRipper.WorldWarII.ExportLuaFIles) },
+            { "s2_mp64_ship",       new GameDefinition(0xC05370,          0xEACC40,       "mp",               LuaRipper.WorldWarII.ExportLuaFIles) },
             { "s2_sp64_ship",       new GameDefinition(0x9483F0,          0xBCC5E0,       "sp",               LuaRipper.WorldWarII.ExportLuaFIles) },
             // Call of Duty: Black Ops 4
-            { "BlackOps4",       new GameDefinition(0x88788D0,          0x74FDED0,       "core",               LuaRipper.BlackOps4.ExportLuaFIles) },
+            { "BlackOps4",          new GameDefinition(0x889AD50,         0x7520300,      "core",             LuaRipper.BlackOps4.ExportLuaFIles) },
         };
 
         /// <summary>
